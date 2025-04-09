@@ -1,0 +1,6 @@
+[submodule "Resources"]
+	path = Resources
+	url = https://github.com/OpenHUTB/Resources.git
+[submodule "RenderingAndGraphics"]
+	path = RenderingAndGraphics
+	url = https://github.com/OpenHUTB/RenderingAndGraphics.git
